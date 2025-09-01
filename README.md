@@ -5,7 +5,6 @@
 <p align="center">
   I am a third-year computer science student and a programming enthusiast,<br>
   currently developing my skills in <b>Python</b>.<br>
-  I am looking for a job in IT as a <b>Python/Backend Developer</b>.<br>
   <b>I am focused on developing skills in clean code and good architectural practices</b> (SOLID, DDD).
 </p>
 
