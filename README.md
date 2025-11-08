@@ -43,7 +43,7 @@ I want to grow as a software engineer specializing in Backend Development, creat
 ### 🚀 Featured Project
 
 <p>
-  I invite you to explore my <b>VAT tax calculation app</b>, which leverages modern Django best practices and robust technologies to deliver a clean, efficient, and feature-rich solution. Its unique blend of automation, data validation, and API integrations sets it apart as a practical and scalable tool.
+  I invite you to explore my <b>VAT-flow app</b>, which leverages modern Django best practices and robust technologies to deliver a clean, efficient, and feature-rich solution. Its unique blend of automation, data validation, and API integrations sets it apart as a practical and scalable tool.
 </p>
 
 ---
