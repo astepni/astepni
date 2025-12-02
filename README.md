@@ -13,6 +13,14 @@
 ### 🔧 Technologies & Skills
 
 <p align="left">
+<img  src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"  />
+<img  src="https://img.shields.io/badge/SAP%20FI%2FCO-Expert-0FAAFF?style=for-the-badge"  />
+<img  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"  />
+<img  src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"  />
+<img  src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"  />
+<img  src="https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"  />
+<img  src="https://img.shields.io/badge/OData-1273BA?style=for-the-badge"  />
+<img src="https://img.shields.io/badge/ABAP-Developer-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white&style=for-the-badge" title="Django REST Framework"/>
