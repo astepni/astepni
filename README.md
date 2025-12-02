@@ -5,7 +5,7 @@
 <p align="center">
   I am a third-year Computer Science student and and aspiring SAP ABAP Developer, combining 5 years of experience with SAP FI/CO and tax/accounting with backend development in ABAP and Python.<br>
   </b>.<br>
-  <b>Currently focused on building clean, testable ABAP code and SAP extensions following SOLID principles and ABAP best practices.</b> (SOLID, DDD).
+  <b>Currently focused on building clean, testable ABAP code and SAP extensions following SOLID principles and ABAP best practices.</b>.
 </p>
 
 ---
