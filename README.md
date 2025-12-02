@@ -4,7 +4,7 @@
 
 <p align="center">
   I am a third-year computer science student and a programming enthusiast,<br>
-  currently developing my skills in <b>Python</b>.<br>
+  currently developing my skills in <b>ABAP and Python</b>.<br>
   <b>I am focused on developing skills in clean code and good architectural practices</b> (SOLID, DDD).
 </p>
 
@@ -36,7 +36,7 @@
 
 ### 🎯 Goal
 
-I want to grow as a software engineer specializing in Backend Development, creating scalable and reliable applications.
+I want to grow as a Developer specializing in Backend Development, creating scalable and reliable applications and solutions.
 
 ---
 
