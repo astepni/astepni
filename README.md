@@ -3,9 +3,9 @@
 <h1 align="center">👋 Hello!</h1>
 
 <p align="center">
-  I am a third-year computer science student and a programming enthusiast,<br>
+  I am a third-year Computer Science student and and aspiring SAP ABAP Developer, combining 5 years of experience with SAP FI/CO and tax/accounting with backend development in ABAP and Python.<br>
   currently developing my skills in <b>ABAP and Python</b>.<br>
-  <b>I am focused on developing skills in clean code and good architectural practices</b> (SOLID, DDD).
+  <b>Currently focused on building clean, testable ABAP code and SAP extensions following SOLID principles and ABAP best practices.</b> (SOLID, DDD).
 </p>
 
 ---
@@ -36,7 +36,9 @@
 
 ### 🎯 Goal
 
-I want to grow as a Developer specializing in Backend Development, creating scalable and reliable applications and solutions.
+I want to grow as an SAP ABAP Developer, creating reliable SAP extensions (reports, interfaces, enhancements, forms) that connect business requirements with clean and maintainable code.
+
+Open to Junior ABAP Developer / ABAP Consultant roles, especially in finance-related modules (FI/CO).
 
 ---
 
