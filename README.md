@@ -56,7 +56,7 @@ Open to Junior ABAP Developer / ABAP Consultant roles.
   I would invite you to explore my ABAP & Python projects:
 
  1. **Project 1 - ABAP:** Management of Lufthansa (LH) flight patterns for booking - filter by CARRID/CONNID, **ALV** with sorting/Excel export. Uses demo table SFLIGHT (FI/MM/SD).
- 2. **Project 2 - ABAP:** **SAP Fiori Elements List Report** - Airlines (SCARR) - SAP ABAP CDS-based Fiori Elements app demonstrating List Report with @UI.identification, table filters, search, and responsive design. Uses standard SCARR demo data (~20 airlines).**
+ 2. **Project 2 - ABAP:** **SAP Fiori Elements List Report** - Airlines (SCARR) - SAP ABAP CDS-based Fiori Elements app demonstrating List Report with @UI.identification, table filters, search, and responsive design. Uses standard SCARR demo data (~20 airlines).
  3. **Project 3 - ABAP:** project contains a custom **ABAP BAdI implementation** for **SAP Business Partner (BP)** that enforces phone number validation during BP maintenance.
  4. **Project 4 - Python & Django:** **VAT-flow app**, which leverages modern Django best practices and robust technologies to deliver a clean, efficient, and feature-rich solution. Its unique blend of automation, data validation, and API integrations sets it apart as a practical and scalable tool.
 </p>
